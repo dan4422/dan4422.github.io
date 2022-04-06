@@ -14,7 +14,7 @@ texture:
   style: black # yellow, red, black, blue, green, purple
   
   # update your name and title
-  title: Ada Lovelace
+  title: Daniel Lee
   tagline: Web Developer
   date_format: "%b %-d, %Y"
 
